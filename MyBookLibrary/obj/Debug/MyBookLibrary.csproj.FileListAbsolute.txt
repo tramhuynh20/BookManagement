@@ -1,0 +1,6 @@
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\thand\source\repos\MySolution_Assignment02\MyBookLibrary\obj\Debug\MyBookLibrary.pdb
